@@ -1,4 +1,7 @@
-# test coverage for  [sync-request (v4.0.2)](https://github.com/ForbesLindesay/sync-request#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-sync-request.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sync-request) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sync-request.svg)](https://travis-ci.org/npmtest/node-npmtest-sync-request)
+# npmtest-sync-request
+
+#### basic test coverage for  [sync-request (v4.0.2)](https://github.com/ForbesLindesay/sync-request#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-sync-request.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sync-request) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sync-request.svg)](https://travis-ci.org/npmtest/node-npmtest-sync-request)
+
 #### Make synchronous web requests
 
 [![NPM](https://nodei.co/npm/sync-request.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sync-request)
